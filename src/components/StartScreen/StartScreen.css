@@ -1,0 +1,11 @@
+.start_screen h1 {
+    padding: 1.5rem;
+    font-size: 3rem;
+}
+
+.start_screen p { 
+    font-size: 1.5rem;
+    color: rgb(236, 211, 66);
+    font-weight: bold;
+    margin: 1.5rem;
+}
