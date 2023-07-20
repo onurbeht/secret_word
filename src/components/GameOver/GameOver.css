@@ -1,0 +1,13 @@
+.game_over h1 {
+    margin: 1.5rem;
+}
+
+.game_over p {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.game_over span {
+    font-weight: bold;
+    color: gold;
+}

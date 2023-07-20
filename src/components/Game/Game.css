@@ -1,5 +1,5 @@
 .game p {
-    font-size: 1.5rem;
+    font-size: 2rem;
     margin: 1.5rem;
 }
 
@@ -8,6 +8,11 @@
 }
 
 .game h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.tip {
     font-size: 2rem;
 }
 
@@ -21,6 +26,7 @@
     border: 10px solid gold;
     padding: 1.5rem;
     display: flex;
+    justify-content: center;
 }
 
 .letter, .blank_square{
